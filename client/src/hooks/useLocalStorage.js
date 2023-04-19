@@ -1,0 +1,3 @@
+export const useLocalStorage = () => {
+  // implement a hook to help use local storage in multiple components...
+};
